@@ -10,5 +10,8 @@ theme is not affiliated with or endorsed by either.
 - `04-robbery.jpg`: Jason and Lucia, Robbery
 - `05-lock-and-load.jpg`: Jason and Lucia, Lock and Load
 
+`backgrounds-ultrawide/` holds Rockstar's own 21:9 versions of Robbery and Lock and Load,
+used automatically on an ultrawide screen.
+
 The palette is drawn from these pictures: dusk violet background, Vice pink accent,
 sunset peach, Cheetah red, palm green, twilight blue, lavender and ocean cyan.
