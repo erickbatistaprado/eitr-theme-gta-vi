@@ -1,7 +1,7 @@
 # GTA VI theme for Eitr
 
 A dark [Eitr](https://eitr.info) theme with Grand Theft Auto VI art: dusk violet, Vice
-pink and sunset peach, with three wallpapers.
+pink and sunset peach, with five wallpapers.
 
 ![Preview](gta-vi/preview.png)
 
